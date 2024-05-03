@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="powerpackage.PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-03T17:01:31" hostname="DESKTOP-QO0S8S2" time="0.023">
+  <properties/>
+  <testcase name="givenThreeAsNumberAndTwoAsPower_whenCalculatePower_thenReturnValueAsNine" classname="powerpackage.PowerFinderTest" time="0.015"/>
+  <testcase name="givenTwoAsNumberAndTwoAsPower_whenCalculatePower_thenReturnValueAsFour" classname="powerpackage.PowerFinderTest" time="0.0"/>
+  <testcase name="givenOneAsNumberAndOneAsPower_whenCalculatePower_thenReturnValueAsOne" classname="powerpackage.PowerFinderTest" time="0.002"/>
+  <testcase name="givenOneAsTwoAndOneAsPower_whenCalculatePower_thenReturnValueAsTwo" classname="powerpackage.PowerFinderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
